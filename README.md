@@ -6,6 +6,7 @@ _My learning and progress of cybersecurity fundamentals._
 
 **Contents**:
 
+- [Useful Resources](#useful-resources)
 - [Cybersecurity: Definition and Purpose](#cybersecurity-definition-and-purpose)
 - [Key Skills for Cybersecurity](#key-skills-for-cybersecurity)
   - [Transferrable skills](#transferrable-skills)
@@ -13,6 +14,9 @@ _My learning and progress of cybersecurity fundamentals._
 - [The 8 Cybersecurity Domains](#the-8-cybersecurity-domains)
 
 ---
+
+# Useful Resources
+- [_Glossary_, **Computer Security Resource Center (CSRC)**](https://csrc.nist.gov/glossary)
 
 # Cybersecurity: Definition and Purpose
 The practice of ensuring:
