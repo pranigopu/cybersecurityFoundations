@@ -81,7 +81,7 @@ The purpose of security frameworks include:
 
 ## Specific Frameworks
 ### CIA Triad
-**CIA**: Confidentiality, Integrity, Accessibility
+CIA = Confidentiality, Integrity, Accessibility
 
 ---
 
