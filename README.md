@@ -11,7 +11,7 @@ _My learning and progress of cybersecurity fundamentals._
 - [Key Skills for Cybersecurity](#key-skills-for-cybersecurity)
   - [Transferrable skills](#transferrable-skills)
 - [2 Sides of Cybersecurity](#2-sides-of-cybersecurity)
-- [The 8 Cybersecurity Domains](#the-8-cybersecurity-domains)
+- [Further reading](#further-reading)
 
 ---
 
@@ -125,14 +125,12 @@ Working with other teams to:
 - Build new detections
 - Improve the current detections
 
-_The difference between an entry-level cybersecurity analyst and an entry-level cybersecurity engineer is that the analyst is more focused on the operation-side, and the engineer, while they can do operations, are more focused on the project-side._
+---
 
-# The 8 Cybersecurity Domains
-- Security and risk management
-- Asset security
-- Security architecture and engineering
-- Communication and network security
-- Identity and access management
-- Security assessment and testing
-- Security operations
-- Software development security
+Difference between entry-level cybersecurity analyst and engineer:
+
+- Analyst is more focused on the operation-side
+- Engineer are more focused on the project-side <br> _While they can do operations_
+
+# Further reading
+- [The 8 Cybersecurity Domains](./8-cybersecurity-domains.md)
