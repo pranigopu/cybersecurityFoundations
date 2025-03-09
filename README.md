@@ -19,44 +19,17 @@ _My learning and progress of cybersecurity fundamentals._
 - [_Glossary_, **Computer Security Resource Center (CSRC)**](https://csrc.nist.gov/glossary)
 
 # Cybersecurity: Definition and Purpose
-The practice of ensuring:
+The practice of ensuring...
 
-<details>
-<summary>Confidentiality</summary>
-<p>
-Of identity, data and information about operations and assets.
-</p>
-</details>
+- confidentiality
+- integrity
+- availability
 
-<details>
-<summary>Integrity</summary>
-<p>
-Of data and assets. This involves:
-<ul>
-    <li>Protecting assets from damage</li>
-    <li>Protecting data from unwanted/unauthorised* changes</li>
-</ul>
-*<i>May be intentional or accidental.</i>
-<br><br>
-<a href="https://www.geeksforgeeks.org/information-security-integrity/"><i>Information Security | Integrity</i><b>GeeksForGeeks.org</b></a>
-</p>
-</details>
-
-<details>
-<summary>Availability</summary>
-<p>
-Of networks, data and assets. This means:
-<ul>
-    <li>Facilitating access where appropriate/authorised</li>
-    <li>Protection against access-prevention methods*</li>
-</ul>
-*<i>Such as DDOS attacks, ransomware, etc.</i>
-</p>
-</details>
+... of data and assets.
 
 ---
 
-The above 3 make up the CIA triad (see: [_CIA Triad_, **GeeksForGeeks.org**](https://www.geeksforgeeks.org/the-cia-triad-in-cryptography/)).
+For elaboration, see: ["CIA Triad", _Security Frameworks and Controls_](./security-frameworks-and-controls.md#cia-triad)
 
 # Key Skills for Cybersecurity
 ## Transferrable skills
@@ -134,3 +107,4 @@ Difference between entry-level cybersecurity analyst and engineer:
 
 # Further reading
 - [The 8 Cybersecurity Domains](./8-cybersecurity-domains.md)
+- [Security Frameworks and Controls](./security-frameworks-and-controls.md)
