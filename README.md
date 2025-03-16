@@ -24,3 +24,4 @@ _My learning and progress of cybersecurity fundamentals._
     - 8 security domains
     - Security frameworks and controls
     - Common tools and programming languages
+- **Course 2**: [Managing Security Risks](./managing-security-risks)
