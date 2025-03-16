@@ -106,3 +106,5 @@ The idea that all within an organisation take an active role in:
 
 - Lowering risk
 - Maintaining both physical and virtual security
+
+**NOTE**: _Is a concept in security architecture and engineering._
