@@ -50,8 +50,27 @@ Implement security and privacy plans for the organisation.
 Is the practical counterpart of ["1. Prepare"](#1-prepare).
 
 # 5. Assess
-
+- Determine if established controls are _implemented correctly_
+- Validate implemented protocols, procedures, and controls <br> _Verify whether they meet the organisation's needs_
 
 # 6. Authorise
+Be accountable for actual/potential security and privacy risks.
+
+---
+
+As an analyst, the authorisation step could involve:
+
+- Generating reports
+- Developing plans of action
+- Establishing project milestones aligned to security goals
 
 # 7. Monitor
+Be aware of how systems are operating.
+
+---
+
+- Assessing and maintaining technical operations are daily tasks
+- Keeping risk at low levels involves validating current systems <br> _This means_...
+    - Knowing how they support the organisation's security goals
+    - Making changes (if needed) if systems do not meet these goals
+
