@@ -73,7 +73,7 @@ There must be multiple security controls...
 E.g.:
 - Multi-factor authentication (MFA) <br> _Additional security controls added to password_
 - Security permissions <br> _Additional restrictions added to organisation credentials_
-- Firewalls
+- Firewalls <br> _Additional restrictions added to network access controls_
 
 ## 3. Separation of Duties
 Limit access privilege by delimiting duties assigned to users.
