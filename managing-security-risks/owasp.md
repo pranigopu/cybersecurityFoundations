@@ -33,6 +33,11 @@ All potential vulnerabilities a threat actor could exploit, e.g.:
 - Attack vectors
 - Networks using outdated protocols
 - Human error
+- Software features, such as:
+    - Verbose logging (that could expose sensitive information)
+    - Debug mode enabled in production <br> _Exposes internal system functionality to attackers_
+    - Unrestricted file execution
+    - Insecure API endpoints
 
 ## Attack Vector
 A pathway an attacker can use to penetrate security defenses, e.g.:
@@ -87,10 +92,10 @@ E.g.:
 **NOTE**: Related to separation of concerns in software.
 
 ## 4. Keep Security Simple
-**Philosophical Setup**:
+**Conceptual Setup**:
 
 1. Focus is finite, demanding prioritisation and efficiency
-2. Thus, reality can be dealt with via a _few_ mental units
+2. Thus, reality must be dealt with via a _few_ mental units
 3. The same applies for security, which is a part of reality
 
 ---
@@ -149,19 +154,25 @@ _3rd-party systems may have different security policies._
 
 E.g.: Consider the following case:
 
-- A 3rd-party vendor tracks reward points for airline customers
+- 3rd-party vendor tracks reward points for airline customers
 - Airline wants to use this information to fix customer balance
 
 Airline must ensure reward information is accurate before using it.
 
 ## 9. Avoid Security by Obscurity
+**Conceptual Setup**:
+
 Any hidden security-related detail is a vulnerability.
 
 _Why? Because its breach is a direct security threat._
 
 ---
 
+**Principle Statement**:
+
 Hence, do not rely on hiding details to maintain security.
+
+_Design systems assuming attackers have knowledge of details._
 
 ---
 

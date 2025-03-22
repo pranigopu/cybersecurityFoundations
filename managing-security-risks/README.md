@@ -113,3 +113,5 @@ The idea that all within an organisation take an active role in:
 # Further Reading
 - [3 Layers of the Web](./3-layers-of-the-web.md)
 - [NIST Risk Management Framework](./nist-rmf.md)
+- [NIST Cybersecurity Framework](./nist-csf.md)
+- [Open Worldwide Application Security Project (OWASP)](./owasp.md)
