@@ -1,7 +1,7 @@
 <h1>NIST RMF</h1>
 
-- NIST = National Institute of Standards and Technology
-- RMG = Risk Management Framework
+- **NIST = National Institute of Standards and Technology**
+- **RMG = Risk Management Framework**
 
 ---
 

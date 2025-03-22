@@ -1,7 +1,15 @@
 <h1>NIST CSF</h1>
 
-- NIST = National Institute of Standards and Technology
-- CSF = Cybersecurity Framework
+- **NIST = National Institute of Standards and Technology**
+- **CSF = Cybersecurity Framework**
+
+A voluntary framework that consists of...
+
+- standards
+- guidelines
+- best practices
+
+... to manage cybersecurity risk. 
 
 ---
 
